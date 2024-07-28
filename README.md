@@ -6,6 +6,8 @@ Duration: JUNE TO AUGUST 2024
 Mentor: SRAVANI GOUNI
 
 **OVERVIEW OF THE PROJECT**
+![image](https://github.com/user-attachments/assets/e16a0567-438c-4dcb-8443-305d8a89a30a)
+
 
 **OBJECTIVE **
 The objective of this project is to design UART PROTOCOL in verilog or vhdl language 
